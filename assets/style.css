@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.font-rubik {
+    font-family: "Rubik", sans-serif;
+}
+
+.btn {
+    background-color: #4f9e6a;
+    border: none;
+    color: white;
+    padding: 14px 28px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.btn-outline {
+    background: transparent;
+    border: 2px solid white;
+    color: white;
+    padding: 14px 28px;
+    border-radius: 5px;
+    cursor: pointer;
+}
